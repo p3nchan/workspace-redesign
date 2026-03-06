@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+credentials/
+.secrets/
+
+# Build / temp
+node_modules/
+__pycache__/
+*.pyc
+*.tmp
+*.bak
